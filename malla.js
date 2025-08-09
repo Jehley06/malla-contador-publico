@@ -17,8 +17,11 @@ const materiasData = [
   [4, "Matematica financiera", 10, "Métodos cuantitativos", ["Calculo 1"], "obligatoria"],
   [4, "Legislación laboral y seguridad social", 10, "Contabilidad e impuestos", ["Conceptos contables", "Derecho Civil"], "obligatoria"],
   [4, "Derecho societario", 10, "Jurídica", ["Derecho Civil"], "obligatoria"],
-  [5, "Comportamiento Organizacional", 10, "Administración", ["170 créditos de avance"], "obligatoria"],
-
+  [5, "Modelos y sistemas de costos", 10, "Contabilidad e impuestos", ["Contabilidad general 3"], "obligatoria"],
+  [5, "Derecho tributario", 10, "Jurídica", ["10 créditos en el área jurídica "], "obligatoria"],
+  [5, "Ética y ejercicio profesional", 5, "Actividades integradoras", ["Contabilidad general 2 y derecho comercial"], "obligatoria"],
+  [6, "Contabilidad superior 1", 10, "Contabilidad e impuestos", ["50 créditos del area contable"], "obligatoria"],
+  
   // OPCIONALES
   [2, "Administración y Gestión de las organizaciones 2", 10, "Administración", ["Administración y Gestión de las organizaciones 1"], "opcional"],
   [3, "Marketing Básico", 10, "CREDITOS DE DISTRIBUCIÓN FLEXIBLE", [], "opcional"],

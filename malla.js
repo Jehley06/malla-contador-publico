@@ -33,8 +33,11 @@ const materiasData = [
   
   // OPCIONALES
   [2, "Administración y Gestión de las organizaciones 2", 10, "Administración", ["Administración y Gestión de las organizaciones 1"], "opcional"],
+  [2, "Ciencia Política", 10, "Ciencias sociales y humanísticas", [], "opcional"],
+  [2, "Desarrollo y Bienestar", 10, "Ciencias sociales y humanísticas", [], "opcional"],
+  [2, "Algebra lineal", 10, "Métodos cuantitativos", [""], "opcional"],
   [3, "Marketing Básico", 10, "CREDITOS DE DISTRIBUCIÓN FLEXIBLE", [], "opcional"],
-   [4, "Diseño Organizacional", 10, "Administración", ["Procesos y Sistemas de información", "Administración y Gestión de las organizaciones 2"], "obligatoria"],
+  [4, "Diseño Organizacional", 10, "Administración", ["Procesos y Sistemas de información", "Administración y Gestión de las organizaciones 2"], "obligatoria"],
   [4, "Administración de Recursos humanos", 10, "Administración", ["Administración y Gestión de las organizaciones 2"], "obligatoria"],
   [4, "Compras Públicas para el Desarrollo", 10, "Administración", ["120 créditos de avance de la Carrera"], "opcional"],
   [4, "Economía Circular", 10, "ACTIVIDADES INTEGRADORAS", ["100 créditos"], "opcional"],

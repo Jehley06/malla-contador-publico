@@ -21,6 +21,11 @@ const materiasData = [
   [5, "Derecho tributario", 10, "Jurídica", ["10 créditos en el área jurídica "], "obligatoria"],
   [5, "Ética y ejercicio profesional", 5, "Actividades integradoras", ["Contabilidad general 2 y derecho comercial"], "obligatoria"],
   [6, "Contabilidad superior 1", 10, "Contabilidad e impuestos", ["50 créditos del area contable"], "obligatoria"],
+  [6, "Control interno 1", 10, "Contabilidad e impuestos", ["50 créditos del area contable"], "obligatoria"],
+  [6, "Contabilidad gerencial", 10, "Contabilidad e impuestos", ["Procesos y sistemas de información y 40 créditos en el área contable"], "obligatoria"],
+  [6, "Tributaria 1", 10, "Contabilidad e impuestos", [" contabilidad "], "obligatoria"],
+  
+
   
   // OPCIONALES
   [2, "Administración y Gestión de las organizaciones 2", 10, "Administración", ["Administración y Gestión de las organizaciones 1"], "opcional"],

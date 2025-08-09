@@ -1,12 +1,11 @@
-// Materias obligatorias y opcionales para Tecnicatura en administración
+// Materias obligatorias y opcionales para Contador público
 const materiasData = [
   // [semestre, materia, créditos, área, requisitos, tipo]
   // OBLIGATORIAS
-  [1, "Administración y Gestión de las organizaciones 1", 10, "Administración", [], "obligatoria"],
   [1, "Conceptos contables", 10, "Contabilidad e impuestos", [], "obligatoria"],
+  [1, "Administración y Gestión de las organizaciones 1", 10, "Administración", [], "obligatoria"],
   [1, "Introducción a la microeconomía", 10, "Economía", [], "obligatoria"],
   [1, "Calculo 1", 10, "Métodos cuantitativos", [], "obligatoria"],
-  [2, "Administración y Gestión de las organizaciones 2", 10, "Administración", ["Administración y Gestión de las organizaciones 1"], "obligatoria"],
   [2, "Contabilidad General 1", 10, "Contabilidad e impuestos", ["Conceptos contables"], "obligatoria"],
   [2, "Derecho Civil", 10, "Jurídica", [], "obligatoria"],
   [3, "Procesos y Sistemas de información", 10, "Administración", ["Administración y Gestión de las organizaciones 1"], "obligatoria"],
@@ -21,6 +20,7 @@ const materiasData = [
   [5, "Comportamiento Organizacional", 10, "Administración", ["170 créditos de avance"], "obligatoria"],
 
   // OPCIONALES
+  [2, "Administración y Gestión de las organizaciones 2", 10, "Administración", ["Administración y Gestión de las organizaciones 1"], "opcional"],
   [3, "Marketing Básico", 10, "CREDITOS DE DISTRIBUCIÓN FLEXIBLE", [], "opcional"],
   [4, "Compras Públicas para el Desarrollo", 10, "Administración", ["120 créditos de avance de la Carrera"], "opcional"],
   [4, "Economía Circular", 10, "ACTIVIDADES INTEGRADORAS", ["100 créditos"], "opcional"],

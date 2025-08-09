@@ -23,9 +23,13 @@ const materiasData = [
   [6, "Contabilidad superior 1", 10, "Contabilidad e impuestos", ["50 créditos del area contable"], "obligatoria"],
   [6, "Control interno 1", 10, "Contabilidad e impuestos", ["50 créditos del area contable"], "obligatoria"],
   [6, "Contabilidad gerencial", 10, "Contabilidad e impuestos", ["Procesos y sistemas de información y 40 créditos en el área contable"], "obligatoria"],
-  [6, "Tributaria 1", 10, "Contabilidad e impuestos", [" contabilidad "], "obligatoria"],
-  
-
+  [6, "Tributaria 1", 10, "Contabilidad e impuestos", [" contabilidad general 3 y derecho tributario"], "obligatoria"],
+  [7, "Auditoría 1", 10, "Contabilidad e impuestos", ["160 créditos de avance de carrera que incluyen: Derecho societario, Legislación Laboral y Seguridad Social, Control Interno y Contabilidad Superior"], "obligatoria"],
+  [7, "Tributaria 2", 10, "Contabilidad e impuestos", ["Tributaria 1"], "obligatoria"],
+  [7, "Finanzas corporativas", 10, "Administración", ["Administración y gestión de las organizaciones 1, Matemática Financiera, Introducción a la Estadística, 40 créditos en el área de Contabilidad e Impuestos, 30 créditos en el área de Economía y 180 créditos mínimos de avance en la carrera"], "obligatoria"],
+  [8, "Informes profesionales de contador público", 10, "Contabilidad e impuestos", ["Auditoría 1"], "obligatoria"],
+  [8, "Práctica pericial en el ámbito judicial", 5, "Actividades integradoras", ["Contabilidad Superior, Derecho Comercial, Derecho Societario, Ética y ejercicio profesional"], "obligatoria"],
+  [8, "Gestión financiera del estado", 10, "Administración", ["30 créditos del area contable, 20 créditos del área administración, 15 créditos del área jurídica, 180 créditos de avance de carrera"], "obligatoria"],
   
   // OPCIONALES
   [2, "Administración y Gestión de las organizaciones 2", 10, "Administración", ["Administración y Gestión de las organizaciones 1"], "opcional"],
